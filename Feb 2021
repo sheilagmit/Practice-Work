@@ -1,1 +1,6 @@
-Folder for practicing Work
+# Folder for practicing Work
+
+# Code example from page 7 - A Whirlwind Tour of Python
+print("Running test.py")
+x = 5
+print("Result is", 3 *x)
