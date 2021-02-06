@@ -27,3 +27,11 @@ print (type(age))
 # Tuple
 age = ()
 print (type(age))
+
+# Class dict, Class int
+ageOfPatient = {}
+Age = 3
+print (type(ageOfPatient))
+print (type(Age))
+
+
