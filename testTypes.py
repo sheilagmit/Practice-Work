@@ -1,4 +1,5 @@
 # Practicing variable test types from week 3 lectures
+# Variable types in int, float, bool, class str and class list
 
 i = 3
 fl = 3.5
