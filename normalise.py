@@ -1,3 +1,4 @@
+# Week 3 lecture practice
 # This program reads in a string 
 # and strips any leading or trailing spaces.
 # It also converts all the letters to lower case .
